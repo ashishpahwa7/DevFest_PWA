@@ -11,7 +11,10 @@
 * HTML/CSS/JS or whatever
 
 
+## References
 
+* https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0
+* https://github.com/Neha/PWA-Demo
 
 
 
